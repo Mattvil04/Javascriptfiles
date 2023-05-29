@@ -1,5 +1,7 @@
-My project
-Hi! I decide to make a pokedex of pokemoms it somentihg i wanted to do before because i was very interesting 
-the pokex will show all the pokemons of the first generation and will have a filter of type it also will have
-the option of search from a name to make it easier 
-the project will work using a public apis of pokemon and the javascri0t will use
+My project idea
+Hi! I decide to make a pokedex of pokemom, it is somenthing i wanted to do before because i was very interested
+in doing a pokedex. The pokedex will show all the pokemons of the first generation and will have a filter 
+of type it also will have the option of search from a name to make it easier. 
+the project will make use of elements like fetch to retrieve data from the PokeAPI and .then() method,
+i also will use object to represent the data of the pokeapi like ID, Height and weight, i will use array
+functions like .map() , .some() ,join() to manipulate and process data as well.
