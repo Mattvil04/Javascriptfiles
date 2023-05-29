@@ -1,0 +1,5 @@
+My project
+Hi! I decide to make a pokedex of pokemoms it somentihg i wanted to do before because i was very interesting 
+the pokex will show all the pokemons of the first generation and will have a filter of type it also will have
+the option of search from a name to make it easier 
+the project will work using a public apis of pokemon and the javascri0t will use
